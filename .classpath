@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ext/commons-io"/>
+	<classpathentry excluding="org/apache/log4j/net/|org/apache/log4j/or/jms/" kind="src" path="ext/log4j"/>
+	<classpathentry kind="src" path="ext/lgpl"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<accessrules>
+			<accessrule kind="accessible" pattern="java/lang/UNIXProcess"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

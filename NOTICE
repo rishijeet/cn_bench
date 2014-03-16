@@ -1,0 +1,8 @@
+Subversion Performance Benchmarks
+Copyright 2011 CollabNet, Inc.
+
+These benchmarks use an LGPL-licensed class for executing native commands.
+The source code for this component is stored in the ext/lgpl folder and
+retains the following copyright:
+
+ Copyright 2010 alvin j. alexander, devdaily.com.
